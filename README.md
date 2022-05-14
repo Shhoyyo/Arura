@@ -1,4 +1,4 @@
-> Terms of Service
+# Terms of Service
 >
 > Usage Agreement
 > By inviting the bot and using its features (commands, welcome system) are you agreeing to the below mentioned Terms and Privacy Policy (Policy) of the bot.
@@ -25,3 +25,26 @@
 > Contact
 > People may get in contact through Discord at Shoyo#0354 or email at Steven.vo2004@gmail.com
 > Other ways of support may be provided but aren't guaranteed.
+
+#Privacy Policy
+>
+> By using our Site/Bot, you agree that you have read and agree to this policy.
+>
+> This is our "Privacy Policy" which sets out the policy which governs our use of information you provide in connection with the makeown.cc website. > The terms "you" and "your" refer to all individuals or entities accessing this website. The terms "we," "us," "our," refer to makeown.cc and "bot" > refers to our Discord bot itself.
+
+> We may update this Privacy Policy from time to time. Changes in our Privacy Policy will be effective immediately. If you are a regular visitor to > this website, we recommend that you check this Privacy Policy on a regular basis. By using the website and/or bot, you consent to the collection, use and transfer of your information in accordance with this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this website or our bot.
+> 
+## THE INFORMATION WE COLLECT AND HOW WE COLLECT IT
+> We do not collect any kind of personal data through this website. Also we do not sell any data to any third part. The moment you log in we temporarily store some basic discord user info such as your USER ID, USERNAME and your SERVERS, all these data gets destroyed when you logs out.
+
+
+## THIRD-PARTY WEBSITES
+> This website or messages distributed by our bot may contain links to third-party websites. These linked websites are not under our control, and we are not responsible for the privacy practices or the contents of any such linked website or any link contained in any linked website. We provide such links only as a convenience, and the inclusion of a link on the website does not imply endorsement of the linked website by Custom Commands. If you provide any personal data through any such d-party website, your transaction will occur on the third party’s website (not this website) and the personal data you provide will be collected by and controlled by the privacy policy of that third party. We recommend that you familiarize yourself with the privacy policies and practices of any third parties. PLEASE NOTE THAT THIS PRIVACY POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
+>
+>
+## MESSAGE CONTENT
+> This bot can see any messages sent to your discord server and where bot has access to the command, but it does not store any of those messages outside of discord to ensure your and your server's privacy. So you don't have to worry about your messages. This only stores what you save on the dashboard thats all.
+
+
+## CONTACT INFORMATION
+> To ask questions or comment about this Privacy Policy and our privacy practices, please contact us via discord, Shoyo#0354 or email at Steven.vo2004@gmail.com.
