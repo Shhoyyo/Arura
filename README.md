@@ -26,7 +26,7 @@
 > People may get in contact through Discord at Shoyo#0354 or email at Steven.vo2004@gmail.com
 > Other ways of support may be provided but aren't guaranteed.
 
-#Privacy Policy
+# Privacy Policy
 >
 > By using our Site/Bot, you agree that you have read and agree to this policy.
 >
